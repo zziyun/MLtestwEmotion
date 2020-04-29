@@ -1,0 +1,2 @@
+rootProject.name='mlkit_happiness'
+include ':app'
